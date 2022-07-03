@@ -1,0 +1,106 @@
+#navbar {
+    diplay: flex;
+    margin: 20px 5px 20px;
+}
+
+#buttons {
+    margin-top: 10px;
+}
+
+#intro {
+    border: 5px solid gray;
+}
+
+#home {
+    background-color: #70a9a1;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+#resume {
+    background-color: #70a9a1;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+#gallery {
+    background-color: #70a9a1;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+#contact {
+    background-color: #70a9a1;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+
+img {
+    width: 95%;
+}
+
+#img2 {
+    border: 2px dashed darkgrey;
+}
+
+#intro {
+    background-color: #cfe0c3;
+    justify-content: flex-start;
+}
+
+#description {
+    text-align: left;
+    padding-left: 10px;
+}
+
+#colOne {
+    text-align: center;
+    padding-top: 30px;
+}
+
+#colTwo {
+    padding: 20px;
+}
+
+#skills {
+    padding: 20px;
+}
+
+#tech {
+    border: 5px solid #70a9a1;
+    padding: 20px;
+}
+
+#tech:hover {
+    background-color: #1f363d;
+    color: white;
+}
+
+#soft {
+    border: 5px solid #70a9a1;
+    padding: 20px;
+}
+
+#soft:hover {
+    background-color: #1f363d;
+    color: white;
+}
+
+#hobbies {
+    border: 5px solid #70a9a1;
+    padding: 20px;
+}
+
+#hobbies:hover {
+    background-color: #1f363d;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+}
+
+#newAdvice {
+    text-align: center;
+}
